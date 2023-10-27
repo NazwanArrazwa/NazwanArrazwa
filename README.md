@@ -1,6 +1,6 @@
 # Hello, There
 
-I'm a software developer with interests in:
+I'm a Web developer with interests in:
 - Web Development
 - BackEnd Development
 
